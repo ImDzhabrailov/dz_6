@@ -106,7 +106,7 @@ console.log(html)
 // const asyncOperation = () => {
 //     return new Promise((resolve, reject) => {
 //         setTimeout(() => {
-//             const success = true; // Измениь на false, чтобы протестировать reject
+//             const success = true; // Изменить на false, чтобы запустить reject
 
 //             if (success) {
 //                 resolve("Асинхронная операция успешно завершена!");
