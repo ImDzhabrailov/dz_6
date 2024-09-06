@@ -93,10 +93,9 @@ console.log(html)
 // const resolvePromise = new Promise((resolve) => {
 //     resolve("Промис успешно выполнен!");
 // });
-
 // resolvePromise
 //     .then((message) => {
-//         console.log(message); // Вывод: Промис успешно выполнен!
+//         console.log(message);
 //     })
 //     .catch((error) => {
 //         console.error(error);
